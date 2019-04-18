@@ -1,17 +1,4 @@
-"""
 
-CS5250 Assignment 4, Scheduling policies simulator
-Sample skeleton program
-Author: Minh Ho
-Input file:
-    input.txt
-Output files:
-    FCFS.txt
-    RR.txt
-    SRTF.txt
-    SJF.txt
-
-"""
 import sys
 import copy
 
